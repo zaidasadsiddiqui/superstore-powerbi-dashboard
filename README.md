@@ -59,3 +59,13 @@ The dashboard helps stakeholders monitor overall performance and make data-drive
 ## Author
 Zaid Asad Siddiqui -
 B.Com Student | Aspiring Data Analyst
+## Dashboard Preview
+
+### Full Dashboard
+![Dashboard](dashboard-overview.png)
+
+### KPI Section
+![KPI](kpi-section.png)
+
+### Trend Analysis
+![Trend](trend-analysis.png)
